@@ -1,3 +1,5 @@
+// start here
+
 /**
  * [Exercise 1] trimProperties copies an object trimming its properties
  * @param {object} obj - an object with properties that are strings

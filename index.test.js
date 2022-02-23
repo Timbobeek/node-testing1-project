@@ -1,5 +1,9 @@
 const utils = require('./index')
 
+test('that it works', () => {
+  expect(true).toBe(true)
+})
+
 describe('[Exercise 1] trimProperties', () => {
   test('[1] returns an object with the properties trimmed', () => {
     // EXAMPLE
